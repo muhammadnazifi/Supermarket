@@ -1,0 +1,3 @@
+C:/Users/MUHAMMAD NAZIFI HALI/Downloads/Supermarket/build/CMakeFiles/supermarket.dir
+C:/Users/MUHAMMAD NAZIFI HALI/Downloads/Supermarket/build/CMakeFiles/edit_cache.dir
+C:/Users/MUHAMMAD NAZIFI HALI/Downloads/Supermarket/build/CMakeFiles/rebuild_cache.dir
